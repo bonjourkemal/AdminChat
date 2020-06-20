@@ -1,0 +1,16 @@
+# --------------------------------------------------
+# made by bnjrKemal
+#
+# Codexia Discord Server: https://discord.gg/4G4wDvk
+#---------------------------------------------------
+
+permission: "admin.chat"
+format-message: "&f%player% » %message%"
+prefix: "&a[AdminChat] "
+command:
+  command: "adminchat"
+  no-permission: "Yeteri kadar yetkin yok."
+  activite: "Açýk"
+  deactivite: "Kapalý"
+  console-error: "Bu komut oyun içi geçerlidir."
+  reloaded: "Config yenilendi."

@@ -1,0 +1,7 @@
+main: me.bnjrkemal.AdminChat.AdminChat
+version: 1.0
+author: bnjrKemal
+name: AdminChat
+api-version: 1.13
+commands:
+  adminchat:
